@@ -2,26 +2,32 @@ name: Mirror external lists
 on:
   schedule:
     - cron: '0 * * * *'  # every hour
-  workflow_dispatch:      # allow manual run
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # <-- ensures push works
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download files
+      - name: Download files (with error handling)
         run: |
-          curl -L "http://az0-vpnip-public.oooninja.com/ip.txt" -o ip.txt
-          curl -L "http://az0-vpnip-public.oooninja.com/adguard.txt" -o adguard.txt
-          curl -L "https://nsfw.oisd.nl" -o onsfw.txt
+          set -euxo pipefail
+          echo "Downloading files..."
+          curl -fL "http://az0-vpnip-public.oooninja.com/ip.txt" -o ip.txt
+          curl -fL "http://az0-vpnip-public.oooninja.com/adguard.txt" -o adguard.txt
+          curl -fL "https://nsfw.oisd.nl" -o onsfw.txt
+          ls -lh
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ip.txt adguard.txt onsfw.txt
-          git diff --quiet && exit 0
+          git status
+          git diff --cached --quiet && echo "No changes detected; exiting." && exit 0
           git commit -m "Auto-update mirrored lists"
-          git push
+          git push origin HEAD:main
