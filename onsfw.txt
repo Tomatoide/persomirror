@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202605202131
+! Version: 202605202211
 ! Title: oisd nsfw
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 353520
-! Last modified: 2026-05-20T21:31:40+0000
+! Entries: 353523
+! Last modified: 2026-05-20T22:11:27+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -9452,6 +9452,8 @@
 ||69aiaise.cfd^
 ||69amateur.blogspot.com^
 ||69angbang.blogspot.com^
+||69av2.cc^
+||69av7.cc^
 ||69avdh.com^
 ||69avs.com^
 ||69baby.com^
@@ -35321,6 +35323,7 @@
 ||auntymaza-com.pornproxy.art^
 ||auntymaza-com.pornproxysite.com^
 ||auntymaza.backroomcastingcouchporn.com^
+||auntymaza.biz^
 ||auntymaza.cfd^
 ||auntymaza.cloud^
 ||auntymaza.com^
