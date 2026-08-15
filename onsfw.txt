@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202608151425
+! Version: 202608151624
 ! Title: oisd nsfw
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 494027
-! Last modified: 2026-08-15T14:25:24+0000
+! Entries: 494033
+! Last modified: 2026-08-15T16:24:09+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -84797,6 +84797,7 @@
 ||c8uy.com.cn^
 ||c8zz.xyz^
 ||c91.org.cn^
+||c92dcr.top^
 ||c948.com^
 ||c94dm7.garden^
 ||c964.com^
@@ -221309,6 +221310,7 @@
 ||izleporno.online^
 ||izleporno.shop^
 ||izleporno.surf^
+||izleporno.top^
 ||izlepornohd.com^
 ||izlepornoturk.com^
 ||izlesexbedavapornohd.com^
@@ -436202,6 +436204,7 @@
 ||turkporno34.cfd^
 ||turkporno34.lat^
 ||turkporno35.cfd^
+||turkporno35.lat^
 ||turkporno36.cfd^
 ||turkporno37.cfd^
 ||turkporno38.cfd^
@@ -470068,6 +470071,7 @@
 ||xnxxwx.org^
 ||xnxxx-9sm.pages.dev^
 ||xnxxx-xxx.beauty^
+||xnxxx-xxx.buzz^
 ||xnxxx-xxx.homes^
 ||xnxxx-xxx.mom^
 ||xnxxx.app^
@@ -479903,6 +479907,7 @@
 ||xxxxchineseporno245.com^
 ||xxxxclips.beauty^
 ||xxxxclips.buzz^
+||xxxxclips.help^
 ||xxxxclips.homes^
 ||xxxxclips.lol^
 ||xxxxclips.mom^
@@ -479928,6 +479933,7 @@
 ||xxxxfans.help^
 ||xxxxfans.homes^
 ||xxxxfans.mom^
+||xxxxfans.online^
 ||xxxxfans.xyz^
 ||xxxxflix.com^
 ||xxxxfuck.buzz^
