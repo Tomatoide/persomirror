@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202610292106
+! Version: 202610300106
 ! Title: oisd nsfw
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 489863
-! Last modified: 2026-10-29T21:06:35+0000
+! Entries: 489882
+! Last modified: 2026-10-30T01:06:33+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -10705,7 +10705,9 @@
 ||4080dydsj.com^
 ||4080dyy.com^
 ||4080movies.com^
+||4080shipin.com^
 ||4080y.com^
+||4080yingshi.com^
 ||4080yingyuan.com^
 ||4080ysj.com^
 ||4080ysq.com^
@@ -26423,6 +26425,7 @@
 ||acne99.com^
 ||acnmc.com^
 ||aco194.top^
+||acoc.com.cn^
 ||acode.live^
 ||acollectionofblackmen.blogspot.com^
 ||acollectionofcocks.blogspot.com^
@@ -67332,6 +67335,7 @@
 ||bhynxx.com^
 ||bhyqymv.cn^
 ||bhz045.sbs^
+||bhzn.com.cn^
 ||bi-a-lille.over-blog.com^
 ||bi-a-piggy.blogspot.com^
 ||bi-babe.blogspot.com^
@@ -118051,6 +118055,7 @@
 ||dghuarong.com^
 ||dghuitong.com^
 ||dghunan.cn^
+||dghydz.com.cn^
 ||dgidcac.cn^
 ||dgita.cn^
 ||dgj121.sbs^
@@ -267442,6 +267447,7 @@
 ||meisehome.org^
 ||meisendiaosu.com^
 ||meisheyagei.com^
+||meishimeike.com.cn^
 ||meishizan.com^
 ||meishuozhubao.com^
 ||meisi.net^
@@ -289316,6 +289322,7 @@
 ||newbokepofficial.store^
 ||newbokepofficial.website^
 ||newbokepofficial.xyz^
+||newbokepresmi.site^
 ||newbokepterbaru.blogspot.com^
 ||newboys.biz^
 ||newbrazz.com^
@@ -291963,6 +291970,7 @@
 ||njp3gs.com^
 ||njp675.sbs^
 ||njpcgh.com^
+||njpr.com.cn^
 ||njpyle.com^
 ||njqcdz.com^
 ||njqtcc.com.cn^
@@ -292578,6 +292586,7 @@
 ||nnu7.com^
 ||nnuqox.com.cn^
 ||nnutceducn.com^
+||nnv5fgd.cn^
 ||nnvcd.com^
 ||nnvun.com^
 ||nnwrss.com^
@@ -303966,6 +303975,7 @@
 ||oxfordrl.com^
 ||oxgcux.com.cn^
 ||oxhamster.com^
+||oxheyfirstschool.com^
 ||oxifxy.com.cn^
 ||oxin168.com.cn^
 ||oxladeslove.blogspot.com^
@@ -345281,6 +345291,7 @@
 ||psschlampen.com^
 ||pssconnect.com.br^
 ||pssd8.com^
+||pssl.com.cn^
 ||psslg.blogspot.com^
 ||pstgimj.cn^
 ||pstgp.com^
@@ -350944,6 +350955,7 @@
 ||qzxgyl.com^
 ||qzxintai.com.cn^
 ||qzxnws.com^
+||qzxyx.com.cn^
 ||qzygyy.com^
 ||qzyiqizhuan.com^
 ||qzyly.com^
@@ -357636,6 +357648,7 @@
 ||rmoronta.blogspot.com^
 ||rmp435.sbs^
 ||rmpfegkbl.cc^
+||rmpp.com.cn^
 ||rms-communications.co.uk^
 ||rmsexl.xyz^
 ||rmshqa.com^
@@ -413596,6 +413609,7 @@
 ||tao-ye.com^
 ||tao088.sbs^
 ||tao2t.net^
+||taoaidou.cn^
 ||taobangkj.com^
 ||taobao121.com^
 ||taobao198.com^
@@ -422974,6 +422988,7 @@
 ||tiantangerzuixinban.org.cn^
 ||tiantanghd.com^
 ||tiantanghd.net^
+||tiantangjingdian.com^
 ||tiantangpian.com^
 ||tiantangweb.net^
 ||tiantangxiju.com^
@@ -431487,6 +431502,7 @@
 ||ttiktok-sexxhot-19i.pages.dev^
 ||ttiktok-sexxhot.pages.dev^
 ||ttireland.com^
+||ttja.com.cn^
 ||ttjdown.cc^
 ||ttjjfx.com^
 ||ttjlp.com.cn^
@@ -456608,6 +456624,7 @@
 ||wps617.com^
 ||wps769.sbs^
 ||wpseed.com^
+||wpsp.com.cn^
 ||wpsupercache.org^
 ||wpt-games.itch.io^
 ||wptcd.com^
@@ -462114,6 +462131,7 @@
 ||xiaolaogong.com^
 ||xiaolc.com^
 ||xiaoleedu.com^
+||xiaoleha.com^
 ||xiaolianedu.com^
 ||xiaolikf.com^
 ||xiaolimao.com^
@@ -484549,6 +484567,7 @@
 ||yzchw.com^
 ||yzclpj.com.cn^
 ||yzclub.vu^
+||yzcnc.com.cn^
 ||yzcnh.com^
 ||yzcwweee.com^
 ||yzcxfs.com^
